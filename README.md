@@ -11,7 +11,7 @@
 - 📫 How to reach me: riccardo.zattra19@gmail.com  
 
 ## 📌 Featured Projects  
-🔹 [**Project Name 1**](repo-link) – Brief description  
+🔹 [**Signals and systems final project**](https://github.com/RiccardoZattra/Signals-and-systems-final-project) – Project on sampling, frequency modulation and filtering  
 🔹 [**Project Name 2**](repo-link) – Brief description  
 🔹 [Check out all my projects!](https://github.com/RiccardoZattra?tab=repositories)  
 

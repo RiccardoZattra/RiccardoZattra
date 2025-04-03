@@ -13,6 +13,7 @@
 ## 📌 Featured Projects  
 🔹 [**Signals and systems final project**](https://github.com/RiccardoZattra/Signals-and-systems-final-project) – Project on sampling, frequency modulation and filtering  
 🔹 [**Signals and measurements lab**](https://github.com/RiccardoZattra/Signals-and-measurements-laboratory) – Spectrum analyzer
+
 🔹 [Check out all my projects!](https://github.com/RiccardoZattra?tab=repositories)  
 
 

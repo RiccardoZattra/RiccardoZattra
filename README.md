@@ -23,6 +23,8 @@
 
 🔹 [**Robocup 2019**](https://github.com/RiccardoZattra/Robocup2019/tree/main) – Here I designed with two of my friends a line follower robot for the Robocup Junior 2019. We design the mechanical, electronic, and software systems of the robot.
 
+🔹 [**Automatica Bacterial incubator**](https://github.com/RiccardoZattra/Automatic-Bacterial-Incubator) – Here I designed with two of my friends, the mechanical, electronic, and software of an automatic bacterial incubator. There prototype is still working and it is used to make prevention on tooth decay.
+
 🔹 [Check out all my projects!](https://github.com/RiccardoZattra?tab=repositories)  
 
 

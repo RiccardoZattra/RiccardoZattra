@@ -21,7 +21,7 @@
 
 🔹 [**Design of a DC motor driver**](https://github.com/RiccardoZattra/DC-Motor-driver) – Here I designed and realized a DC motor driver based on the LMD18200 
 
-🔹 [**Robocup 2019**](https://github.com/RiccardoZattra/Robocup2019/tree/main) – Here I designed with two of my friends a line follower robot for the Robocup Junior 2019. We design everything: mechanic, electronic and software.
+🔹 [**Robocup 2019**](https://github.com/RiccardoZattra/Robocup2019/tree/main) – Here I designed with two of my friends a line follower robot for the Robocup Junior 2019. We design the mechanical, electronic, and software systems of the robot.
 
 🔹 [Check out all my projects!](https://github.com/RiccardoZattra?tab=repositories)  
 
